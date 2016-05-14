@@ -1,0 +1,25 @@
+{
+  "name": "ng-promise",
+  "description": "",
+  "main": "dist/ng-promise.js",
+  "authors": [
+    "axetroy <troy450409405@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "*.log",
+
+    "dist/angular.js",
+    "dist/app.js",
+    "dist/mocha.js",
+    "dist/*.map",
+    "dist/test.js",
+    "dist/index.html"
+  ]
+}
