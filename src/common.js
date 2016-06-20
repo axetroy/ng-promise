@@ -21,7 +21,7 @@ const getBlockNodes = function (nodes) {
   for (var i = 1; node !== endNode && (node = node.nextSibling); i++) {
     if (blockNodes || nodes[i] !== node) {
       if (!blockNodes) {
-        blockNodes = jqLite(slice.call(nodes, 0, i));
+        blockNodes = jqLite(Array.slice.call(nodes, 0, i));
       }
       blockNodes.push(node);
     }
