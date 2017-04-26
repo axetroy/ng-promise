@@ -24,7 +24,7 @@
     "mocha": "^3.2.0",
     "transfer-webpack-plugin": "^0.1.4",
     "webpack": "^2.2.1",
-    "webpack-dev-server": "^2.4.2"
+    "webpack-dev-server": "^2.4.5"
   },
   "ignore": [
     "**/.*",
