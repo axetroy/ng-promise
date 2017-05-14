@@ -21,7 +21,7 @@
     "babel-preset-react": "^6.5.0",
     "babel-runtime": "^6.6.1",
     "chai": "^3.5.0",
-    "mocha": "^3.2.0",
+    "mocha": "^3.4.1",
     "transfer-webpack-plugin": "^0.1.4",
     "webpack": "^2.2.1",
     "webpack-dev-server": "^2.4.2"
