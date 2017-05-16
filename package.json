@@ -8,6 +8,12 @@
     "build": "webpack --display-error-details --progress --colors --watch",
     "serve": "webpack-dev-server --config webpack-dev-config.js  --inline --colors"
   },
+  "keywords": [
+    "angular",
+    "promise",
+    "directive",
+    "async"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
