@@ -1,5 +1,7 @@
 # ng-promise
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/axetroy/ng-promise.svg)](https://greenkeeper.io/)
+
 **Angular1.x**的promise指令
 
 根据promise的结果，渲染不同的视图
